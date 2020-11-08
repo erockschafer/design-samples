@@ -9,3 +9,7 @@ Code Teva Demandware Spring Break Style Guide:  https://codepen.io/erockschafer/
 A video of my javascript demo:  https://codepen.io/erockschafer/pen/ExydVGz
 
 Email Unite sample 1:  https://codepen.io/erockschafer/pen/rNLKmmr
+
+A video of mobile app demo - A book:  https://codepen.io/erockschafer/pen/rNLqLWK
+
+A video of mobile app demo - Home:  https://codepen.io/erockschafer/pen/XWKxKmY
