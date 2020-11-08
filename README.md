@@ -1,4 +1,4 @@
-Check out my samples on CodePen
+Check out my samples on CodePen  :-)
 
 A video of my javascript demo:
 https://codepen.io/erockschafer/pen/ExydVGz
